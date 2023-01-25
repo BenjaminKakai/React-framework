@@ -1,0 +1,15 @@
+Install Node.js: React is built on top of Node.js, so the first step is to install Node.js on your system. You can do this by running the following command in the terminal:
+curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
+sudo apt-get install -y nodejs
+
+Install the Create React App tool: Create React App is a tool that allows you to easily set up a new React project. You can install it globally by running the following command:
+sudo npm install -g create-react-app
+
+Create a new React project: Once you have Create React App installed, you can use it to create a new React project. Navigate to the directory where you want to create your project and run the following command:
+create-react-app my-app
+
+Start the development server: After creating the project, navigate into the project directory and start the development server by running the following command:
+cd my-app
+npm start
+
+
