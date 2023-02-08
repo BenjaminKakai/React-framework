@@ -1,4 +1,5 @@
-React Installation on Ubuntu
+**#React Installation on Ubuntu**
+
 This guide will walk you through the steps to install React on an Ubuntu machine.
 
 Prerequisites
